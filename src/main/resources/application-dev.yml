@@ -1,0 +1,4 @@
+cxz:
+  name: dev.chenxiangzhong
+  age: ${random.int(50)}
+  address: dev.cxz.com
